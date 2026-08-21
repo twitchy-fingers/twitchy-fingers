@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @Daniel Opara
 - 👀 I’m interested in cybersecurity, quite enthusiastic about it actually
-- 🌱 I’m currently learning SIEM sentinel and splunk
+- 🌱 I’m currently learning IAM (AD, Entra ID and Okta)
 - 💞️ I’m looking to collaborate on everything cybersecurity
 - 📫 How to reach me nielopara (LinkedIN), dannyopara@gmail.com, cybermando (discord)
 
