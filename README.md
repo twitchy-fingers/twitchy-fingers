@@ -102,7 +102,7 @@ Every phase has its own folder with a scenario README, architecture diagrams, a 
 
 | Role | Organization | Focus |
 | --- | --- | --- |
-| IAM Analyst | PCtronics Managed IT Services | JML automation, Entra Connect and SCIM, Conditional Access and MFA, PCI DSS access reviews |
+| IT (IAM) Engineer | PCtronics Managed IT Services | JML automation, Entra Connect and SCIM, Conditional Access and MFA, PCI DSS access reviews |
 | Cybersecurity Engineer (IAM/PAM) | GuidePoint Security | Delinea PAM with JIT access, SAML/OAuth/OIDC SSO, SCIM app onboarding, Okta Identity Threat Protection |
 | IT Implementation Engineer | Acorn Technology Services | AD and Entra ID governance audits, PowerShell bulk automation, Entra Connect sync |
 | Cybersecurity Assistant | Riverside City College | AD account lifecycle, access reviews, IAM training |
